@@ -56,7 +56,7 @@ Some key observations from the dashboard include:
 
 ## Dashboard Preview
 
-![Customer Churn Dashboard](customer_churn_analysis.jpg)
+![Customer Churn Dashboard](./customer_churn_analysis.JPG)
 
 ## Project Files
 
